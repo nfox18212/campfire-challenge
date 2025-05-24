@@ -1,0 +1,2 @@
+# Campfire Challenge
+Simple challenge I'm trying to make as my introduction to Balatro modding.  No money gained from extra hands, interest, or beating blinds.  Start with negative riff-raff and campfire and go from there.

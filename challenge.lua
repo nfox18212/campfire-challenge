@@ -1,16 +1,3 @@
---- STEAMODDED HEADER
---- MOD_NAME: Campfire Challenge
---- MOD_ID: campchal
---- MOD_AUTHOR: [mothfox]
---- MOD_DESCRIPTION: Simple challenge where you start with a negative campfire and riff raff and go from there, with no jokers appearing in the shop
---- 
-----------------------------------------------
-------------MOD CODE -------------------------
-
--- G is the global game table
--- local challenges = G.CHALLENGES
--- G.localization.misc.challenge_names["c_campchal"] = "Fuel the Fire"
-
 SMODS.Challenge({
     key = "campchal",
     rules = {
@@ -60,30 +47,3 @@ SMODS.Challenge({
         return true
     end
 })
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-----------------------------------------------
-------------MOD CODE END----------------------

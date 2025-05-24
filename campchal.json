@@ -1,0 +1,24 @@
+{
+	"id": "campchal", 
+	"name": "Campfire Challenge", 
+	"author": ["mothfox"],
+	"description": "Small custom challenge",
+	"prefix": "cc", 
+	"main_file": "challenge.lua", 
+	"priority": 0, 
+	"badge_colour": "FF230A", 
+	"badge_text_colour": "ABC123", 
+	"display_name": "Campfire Challenge", 
+	"version": "~.0.1",
+	"dependencies": [
+		"Steamodded (>=1.*)",
+		"Lovely (>=0.6)", 
+		"Balatro (==1.0.1m)" 
+	], 
+	"conflicts": [
+		
+	], 
+	"provides": [
+	], 
+	"dump_loc": false 
+}

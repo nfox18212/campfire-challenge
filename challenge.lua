@@ -12,7 +12,7 @@
 -- G.localization.misc.challenge_names["c_campchal"] = "Fuel the Fire"
 
 SMODS.Challenge({
-    key = "c_campchal",
+    key = "campchal",
     rules = {
         modifiers = {
             { id = "dollars", value = 10 },

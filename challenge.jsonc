@@ -4,7 +4,7 @@
 	"name": "Campfire Challenge", // [required]
 	"author": ["mothfox"], // [required]
 	"description": "A description of your mod.", // [required] ! To use more advanced typesetting, specify your description as a localization entry at G.localization.descriptions.Mod[id]
-	"prefix": "campchal", // [required] ! Must be unique. This prefix is added to the keys of all objects your mod registers. UNLIKE LEGACY HEADERS, THERE IS NO DEFAULT VALUE.
+	"prefix": "cc", // [required] ! Must be unique. This prefix is added to the keys of all objects your mod registers. UNLIKE LEGACY HEADERS, THERE IS NO DEFAULT VALUE.
 	"main_file": "challenge.lua", // [required] ! This is the entry point of your mod. The specified file (including .lua extension) will be executed when your mod is loaded.
 	"priority": 0, // [default: 0] ! Mods are loaded in order from lowest to highest priority value.
 	"badge_colour": "FF230A", // [default: 666665] ! Background colour for your mod badge. Must be a valid hex color with 6 or 8 digits (RRGGBB or RRGGBBAA)

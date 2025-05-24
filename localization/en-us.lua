@@ -18,7 +18,7 @@ return {
         achievement_names={},
         blind_states={},
         challenge_names={
-            c_campchal_campchal = "Fuel the Fire"
+            c_cc_campchal = "Fuel the Fire"
         },
         collabs={},
         dictionary={},
